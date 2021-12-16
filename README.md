@@ -1,1 +1,1 @@
-# wcl
+# This python code is for downloading World of Warcraft combatlog from Warcraft.com for further analysis. Specifically, all the rogue players combat log in a 25+ key level Mythic dungeon will be scraped. 
